@@ -119,6 +119,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
 background-position-x: 1000px ;
+    height:200px;
+    width:200px;
 }
 h1{
     color: white;
